@@ -152,6 +152,10 @@ Run cells top to bottom. If you have an NVIDIA GPU with CUDA, training will use 
 - Plotting loss, accuracy, and the decision boundary makes model behavior concrete.
 - More epochs is not always better. Watch the gap between train and test metrics for signs of overfitting.
 
+
+😁😁 Remember to drop a star on the REPO if you liked it 😁😁
+
+ 
 ## Source materials
 
 Each source below is linked to the notebook section it supports. All picks are beginner-friendly explainers rather than dense API reference.
